@@ -1,4 +1,4 @@
-# PuPu 公開頁面
+# 噗囉記公開頁面
 
 App Store Connect 的兩個必填 URL 由這個 repo 提供：
 
